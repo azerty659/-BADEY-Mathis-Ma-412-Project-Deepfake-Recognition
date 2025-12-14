@@ -11,6 +11,7 @@ This repository contains a notebook and supporting files for a project on AI-gen
 - `data_2/`  — Expected dataset folders (not included in repo):
   - `fake`
   - `real`
+- `test_image` — dataset of 4 images (2 real and 2 AI) to test the trained models
 - `models/` — (created by the notebook) saved trained models and artifacts.
 - `README.md` — This file.
 
